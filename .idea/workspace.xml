@@ -1,18 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2186c5e-c2bf-4df7-8205-302472147300" name="Default Changelist" comment="Authentication added, alert messages added">
-      <change beforePath="$PROJECT_DIR$/.idea/Retailer_Django.iml" afterPath="$PROJECT_DIR$/.idea/Retailer_Django.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="f2186c5e-c2bf-4df7-8205-302472147300" name="Default Changelist" comment="SMTP functionality added, contacts app developed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/retail/settings.py" afterPath="$PROJECT_DIR$/retail/settings.py" />
-      <change beforePath="$PROJECT_DIR$/retail/urls.py" afterPath="$PROJECT_DIR$/retail/urls.py" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/listing.html" afterPath="$PROJECT_DIR$/templates/listings/listing.html" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/listings.html" afterPath="$PROJECT_DIR$/templates/listings/listings.html" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/search.html" afterPath="$PROJECT_DIR$/templates/listings/search.html" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/about.html" afterPath="$PROJECT_DIR$/templates/pages/about.html" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" afterPath="$PROJECT_DIR$/templates/pages/index.html" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" afterPath="$PROJECT_DIR$/accounts/views.py" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/algo1-intro1.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/algo1-intro2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/algo1-intro3_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/slides_algo-about_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/slides_algo-guiding_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/slides_algo-merge1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/slides_algo-merge2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 1/slides_algo-merge3_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 10/slides_algo-graphs-bfs_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 10/slides_algo-graphs-dfs_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 10/slides_algo-graphs-scc_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 10/slides_algo-graphs-sccanalysis_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 10/slides_algo-graphs-search_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 10/slides_algo-graphs-web_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 11/slides_algo-dijkstra-basics_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 11/slides_algo-dijkstra-correctness_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 11/slides_algo-dijkstra-runtime_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 12/slides_algo-ds-heaps-basics_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 12/slides_algo-ds-heaps-guts_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 12/slides_algo-ds-overview_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 13/slides_algo-ds-trees-basics-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 13/slides_algo-ds-trees-ops-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 13/slides_algo-ds-trees-rbinsert-annotated.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 13/slides_algo-ds-trees-redblack-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 13/slides_algo-ds-trees-rotations-annotated.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 14/slides_algo-ds-hash-basics_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 14/slides_algo-ds-hash-guts_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 15/slides_algo-ds-hash-universal-2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 15/slides_algo-ds-hash-universal1-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 15/slides_algo-ds-hash-universal3-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 15/slides_algo-ds-hash-universal4-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 16/slides_algo-ds-bloom-typed (1).pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 16/slides_algo-ds-bloom-typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 2/algo1-aa-gist_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 2/slides_algo-asymptotic1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 2/slides_algo-asymptotic2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 2/slides_algo-asymptotic3_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 2/slides_algo-asymptotic4_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 3/slides_algo-closest1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 3/slides_algo-closest2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 3/slides_algo-inversions1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 3/slides_algo-inversions2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 3/slides_algo-strassen_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 4/slides_algo-master1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 4/slides_algo-master2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 4/slides_algo-master3_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 4/slides_algo-master4_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 4/slides_algo-master5_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 4/slides_algo-master6_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 5/slides_algo-qsort-correctness_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 5/slides_algo-qsort-intro_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 5/slides_algo-qsort-partition_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 5/slides_algo-qsort-pivot_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 6/slides_algo-qsort-analysis1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 6/slides_algo-qsort-analysis2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 6/slides_algo-qsort-analysis3_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 7/slides_algo-prob_review1_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 7/slides_algo-prob_review2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 8/slides_algo-select-dalgorithm_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 8/slides_algo-select-danalysis2_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 8/slides_algo-select-danalysis_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 8/slides_algo-select-ralgorithm_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 8/slides_algo-select-ranalysis_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 8/slides_algo-select-sortinglb_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 9/slides_algo-karger-algorithm_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 9/slides_algo-karger-analysis_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 9/slides_algo-karger-counting_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 9/slides_algo-karger-overview_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algo1slides/Part 9/slides_algo-karger-representations_typed.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,10 +97,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contacts/views.py">
+        <entry file="file://$PROJECT_DIR$/accounts/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="1876">
+              <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -47,21 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/retail/urls.py">
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/accounts/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/retail/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="147" column="23" lean-forward="false" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+            <state relative-caret-position="316">
+              <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -91,6 +142,7 @@
       <find>card</find>
       <find>lates</find>
       <find>form</find>
+      <find>about</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,8 +176,6 @@
         <option value="$PROJECT_DIR$/templates/partials/_alerts.html" />
         <option value="$PROJECT_DIR$/retail/static/js/main.js" />
         <option value="$PROJECT_DIR$/templates/partials/_navbar.html" />
-        <option value="$PROJECT_DIR$/accounts/views.py" />
-        <option value="$PROJECT_DIR$/templates/accounts/dashboard.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/pages/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/about.html" />
@@ -138,6 +188,8 @@
         <option value="$PROJECT_DIR$/templates/listings/listing.html" />
         <option value="$PROJECT_DIR$/contacts/views.py" />
         <option value="$PROJECT_DIR$/retail/settings.py" />
+        <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/templates/accounts/dashboard.html" />
       </list>
     </option>
   </component>
@@ -270,15 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1558106176538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SMTP functionality added, contacts app developed">
+      <created>1559505595852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559505595853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="12" width="1847" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16649215" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26910993" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -302,7 +362,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Authentication added, alert messages added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Authentication added, alert messages added" />
+    <MESSAGE value="SMTP functionality added, contacts app developed" />
+    <option name="LAST_COMMIT_MESSAGE" value="SMTP functionality added, contacts app developed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -537,20 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/accounts/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -598,7 +645,7 @@
         <state relative-caret-position="0">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -608,7 +655,7 @@
         <state relative-caret-position="280">
           <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -626,7 +673,7 @@
         <state relative-caret-position="112">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -644,15 +691,33 @@
         <state relative-caret-position="265">
           <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/retail/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
+        <state relative-caret-position="517">
           <caret line="147" column="23" lean-forward="false" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1876">
+          <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/accounts/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
           <folding />
         </state>
       </provider>
